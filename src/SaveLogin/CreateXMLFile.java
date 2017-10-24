@@ -24,9 +24,6 @@ import burp.IHttpRequestResponse;
 
 public class CreateXMLFile {
 	
-	
-	
-	
 	private String nomeFile;
 	private String idText;
 	private String codiceFiscale; 
