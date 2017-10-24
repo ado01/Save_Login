@@ -26,7 +26,7 @@ public class CreateXMLFile {
 	private String nomeFile;   
 	private String idText;
 	private String codiceFiscale; 
-	private String password;
+	private String password;   
 	private String tipologia;
 	private List<IHttpRequestResponse> action_login;
 	private List<Element> elementRequest;
