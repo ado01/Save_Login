@@ -40,7 +40,7 @@ public class CreateXMLFile {
 		this.password = password;
 		this.tipologia = tipologia;
 		this.action_login = action_login;
-		this.Sout = Sout;
+		this.Sout = Sout;  
 		this.helper = helper;
 		try{
 			DocumentBuilderFactory documentBuildFactory = DocumentBuilderFactory.newInstance();
