@@ -36,6 +36,7 @@ public class CreateXMLFile {
 	private IExtensionHelpers helper;
 	private File XMLFile;
 	private PrintWriter Sout;
+	
 	public CreateXMLFile(String nomeFile, int id, String codiceFiscale, String password, String tipologia, List<IHttpRequestResponse> action_login, PrintWriter Sout, IExtensionHelpers helper){
 		this.nomeFile = nomeFile;
 		this.idText = Integer.toString(id);
